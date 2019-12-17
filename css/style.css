@@ -1,0 +1,48 @@
+.dl-none{
+	height: 0px!important;
+}
+.dl-none canvas{
+	height: 0px!important;
+}
+.infor{
+	position: relative;
+}
+/*.infor .img{
+	height: 18vh;
+	width: 18vh;
+	position: absolute;
+	left: 50%;
+	top: 20%;
+	transform: translate(-50%,-50%);
+}
+
+.infor .img img{
+	height: 100%;
+	border-radius: 50px;
+	width: 100%;
+}*/
+.calendar table{
+	height: 45vh!important;
+	/*width:  80vh!important;*/
+}
+.calendar table td{
+	padding-top: .6rem!important;
+}
+/*.info .image
+{
+	height:30px;
+	 width:30px;
+}*/
+.infor .image img
+{
+	border-radius: 50px;
+	left: 50%;
+	/*//margin-right: 0px;*/
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.infor
+{
+	/*height: 100%;*/
+}
